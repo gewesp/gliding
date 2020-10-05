@@ -1,3 +1,21 @@
+# Föhnflug-Checkliste
+
+Verwendung:
+* Diese Seite ausdrucken
+* Leere Felder ausfüllen, dabei angegebene Quellen verwenden
+* Fliegen :)
+
+# Generell
+
+|---|---|
+|Datum||
+|Geplante Distanz||
+|Startort||
+|Flugzeugtyp||
+|Kennzeichen||
+
+
+
 # Frequenzen
 
 |Rufzeichen|Frequenz|Bemerkungen|
@@ -11,7 +29,7 @@
 
 # Luftraum
 
-|Was|Quelle|Status aktuell|
+|Was|Quelle|Status während des Fluges|
 |---|---|---|
 |Militär Schweiz|VFR Manual: MON-FRI 07:30-12:05 und 13:15-17:05 Lokalzeit + NOTAM||
 |DABS|<https://www.skybriefing.com/dabs>||
@@ -20,7 +38,8 @@
 # Wind
 
 ## Vorhersagen
-|Station|Quelle|Wert|
+
+|Station|Quelle|Werte während des Fluges|
 |---|---|---|
 |Jungfraujoch|[Meteomedia](http://wetterstationen.meteomedia.de/station=067300&wahl=vorhersage)||
 |Säntis|[Meteomedia](http://wetterstationen.meteomedia.ch/station=066800&wahl=vorhersage)||
