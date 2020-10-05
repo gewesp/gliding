@@ -7,6 +7,7 @@ Verwendung:
 
 # Generell
 
+|   |   |
 |---|---|
 |Datum||
 |Geplante Distanz||
