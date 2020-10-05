@@ -7,7 +7,7 @@ Verwendung:
 
 # Generell
 
-|   |<span width=200>|
+|   |<div width=200>|
 |---|---|
 |Datum||
 |Geplante Distanz||
