@@ -3,17 +3,17 @@
 |Rufzeichen|Frequenz|Bemerkungen|
 |---|---|---|
 |Innsbruck Radar|119.275|Arlberg bis Salzburg|
-|Meiringen|TMA crossing Titlis-Grosse Scheidegg; Funkkontakt nur im Gadmertal, am Wochende meist inaktiv|
-|Zürich Delta||Gemmi bis Arlberg|
-|Geneva Delta||Westlich Gemmi|
-|Zürich Info|124.7||
-|Wien Info|124.4||
+|Meiringen|130.150|TMA crossing Titlis-Grosse Scheidegg; Funkkontakt nur im Gadmertal, am Wochende meist inaktiv|
+|Zürich Delta|119.225|Höhenfreigaben Gemmi bis Arlberg|
+|Geneva Delta|119.175|Höhenfreigaben westlich Gemmi|
+|Zürich Info|124.7|Info über Aktivität, evtl. Koordination von Freigaben|
+|Wien Info|124.4|Info über Aktivität, evtl. Koordination von Freigaben|
 
 # Luftraum
 
-|Was|Quelle|Status|
+|Was|Quelle|Status aktuell|
 |---|---|---|
-|Militär Schweiz|VFR Manual: MON-FRI 07:30-12:05, 13:15-17.05 + NOTAM||
+|Militär Schweiz|VFR Manual: MON-FRI 07:30-12:05 und 13:15-17:05 Lokalzeit + NOTAM||
 |DABS|<https://www.skybriefing.com/dabs>||
 |Tuepl Hochfilzen|[Google: Tuepl Hochfilzen Schiessen](https://www.google.com/search?q=tuepl+hochfilzen+schiessen)||
 
