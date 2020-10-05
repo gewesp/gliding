@@ -1,3 +1,4 @@
 # Contents
 
-* [Foehn flying in the Alps (German)](foehn-handbuch.md)
+* [Föhn flying in the Alps: German manual](./foehn/handbuch.md)
+* [Föhn flying in the Alps: Checklist](./foehn/checklist.md)
