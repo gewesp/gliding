@@ -36,7 +36,8 @@ im Windfeld!
 |Punkt | h | Landefeld(er) | Bemerkungen |
 |---|:---:|---|---|
 | Gonzen | 1000 | Sargans, Bad Ragaz | Nach Ragaz: Gegenwind, starkes Sinken! |
-| Wiggis | 2700 | Mollis, Schänis | |
+| Chäserrugg | 2000 | Schänis, Bad Ragaz | |
+| Wiggis/Rautispitz | 1800 | Mollis, Schänis | |
 | Urmiberg | 1200 | Buochs, Lauerz | |
 | Eggberge | 1000 | Altdorf | | 
 
