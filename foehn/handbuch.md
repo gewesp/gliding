@@ -15,32 +15,50 @@ von West nach Ost.
 * Inntal: Über Bahnhof Hall/Tirol (CTR-Freigabe nötig!)
 * Pinzgau: Kaprun
 
+
+# Parameter
+
+* h: Minimal empfohlene Ankunftshöhe, wo der Hang (normalerweise)
+  funktioniert (m MSL)
+* Landefelder: Landemöglichkeit, falls der Hang *nicht* funktioniert
+
 # Hangflug Schweiz
 
-Nur möglich bei relativ trockenem Föhn und wenig bis keiner Westkomponente
-im Windfeld!
+## Südliche Route
 
 Vorderrheintal-Oberalppass-Furkapass-Wallis
 
+Nur möglich bei relativ trockenem Föhn und wenig bis keine Westkomponente
+im Windfeld!
+
+## Nördliche Route 
+
+|Punkt | h | Landefeld(er) | Bemerkungen |
+|---|:---:|---|---|
+| Gonzen | 1000 | Sargans, Bad Ragaz | Nach Ragaz: Gegenwind, starkes Sinken! |
+| Wiggis | 2700 | Mollis, Schänis | |
+| Urmiberg | 1200 | Buochs, Lauerz | |
+| Eggberge | 1000 | Altdorf | | 
+
+
 # Hangflug Österreich
 
-Route: Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
+Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
 
-|Punkt | h nach O | h nach W | Landefeld(er) | Bemerkungen |
-|---|:---:|:---:|---|---|
-|Valluga   | |  | Bludenz, Imst |  |
-|Parseier  | |  | Imst | Richtung Mieminger: Achtung TMA Innsbruck Hahntenjoch |
-|Mieminger | |  | Imst, Innsbruck |  |
-|Seegrube  | |  | Innsbruck |  |
-|Ochsenkopf    | |  | Innsbruck, Kufstein |  |
-|Wilder Kaiser | |  | Kufstein, St. Johann |  |
-|Leoganger Steinberge | |  | St. Johann, Saalfelden |  |
-|Steinernes Meer | |  | Saalfelden, Zell am See | Nach Zell am See: Gegenwind! |
-|Hochkönig | |  | St. Johann, Saalfelden |  |
+|Punkt | h | Landefeld(er) | Bemerkungen |
+|---|:---:|---|---|
+|Valluga   | 2700 | Bludenz, Imst |  |
+|Parseier  | 2500 | Imst | Richtung Mieminger: Achtung TMA Innsbruck Hahntenjoch |
+|Mieminger | 2000 | Imst, Innsbruck |  |
+|Seegrube  | 1200 | Innsbruck |  |
+|Ochsenkopf  | | Innsbruck, Kufstein |  |
+|Wilder Kaiser | 1700 | Kufstein, St. Johann |  |
+|Leoganger Steinberge | | St. Johann, Saalfelden |  |
+|Steinernes Meer | | Saalfelden, Zell am See | Nach Zell am See: Gegenwind! |
+|Hochkönig | | St. Johann, Saalfelden |  |
 |(Tennengebirge)| |  | Pfarrwerfen? |  |
-|Dachstein| |  | Niederöblarn |  |
+|Dachstein| | Niederöblarn |  |
 
-# Abstechhöhen
 
 # Flüge
 
