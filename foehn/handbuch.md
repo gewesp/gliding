@@ -7,12 +7,6 @@
 Quelle: [MeteoSchweiz](https://www.meteoschweiz.admin.ch/home/klima/klima-der-schweiz/altweibersommer-eisheilige-und-andere-spezialitaeten/foehn.html)
 
 
-# Auffangpunkte/-linien
-
-Punkte, an denen man bei Föhn relativ zuverlässig, teils auch 
-in niedriger Höhe in den Hangwind einsteigen kann.  Sortiert 
-von West nach Ost.
-
 # Welleneinstieg
 
 Vermutete / getestete Einstiegspunkte
@@ -27,22 +21,28 @@ Vermutete / getestete Einstiegspunkte
 * Pinzgau: Kaprun
 
 
-# Tabellenparameter
+# Auffangpunkte/-linien
+
+Punkte, an denen man bei Föhn relativ zuverlässig, teils auch 
+in niedriger Höhe in den Hangwind einsteigen kann.  Sortiert 
+von West nach Ost.
+
+## Tabellenparameter
 
 * h: Minimal empfohlene Ankunftshöhe, wo der Hang (normalerweise)
   funktioniert (m MSL)
 * Landefelder: Landemöglichkeit, falls der Hang *nicht* funktioniert
 
-# Hangflug Schweiz
+## Hangflug Schweiz
 
-## Südliche Route
+### Südliche Route
 
 Vorderrheintal-Oberalppass-Furkapass-Wallis
 
 Nur möglich bei relativ trockenem Föhn und wenig bis keine Westkomponente
 im Windfeld!
 
-## Nördliche Route 
+### Nördliche Route 
 
 |Punkt | h | Landefeld(er) | Bemerkungen |
 |---|:---:|---|---|
@@ -58,7 +58,7 @@ im Windfeld!
 | Mazorakopf/Falknis | 2300 | Bad Ragaz | Vorsicht/höher anfliegen bei Ostkomponente! |
 
 
-# Hangflug Österreich
+## Hangflug Österreich
 
 Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
 
