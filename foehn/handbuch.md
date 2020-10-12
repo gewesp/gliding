@@ -1,3 +1,12 @@
+# Föhnflug-Handbuch
+
+## Föhnkarte Schweiz
+
+![Föhnkarte Schweiz](../images/foehn/1521550074264.png)
+
+Quelle: [MeteoSchweiz](https://www.meteoschweiz.admin.ch/home/klima/klima-der-schweiz/altweibersommer-eisheilige-und-andere-spezialitaeten/foehn.html)
+
+
 # Auffangpunkte/-linien
 
 Punkte, an denen man bei Föhn relativ zuverlässig, teils auch 
