@@ -4,19 +4,21 @@ Punkte, an denen man bei Föhn relativ zuverlässig, teils auch
 in niedriger Höhe in den Hangwind einsteigen kann.  Sortiert 
 von West nach Ost.
 
-* Gonzen
-* Parseier
-* Seegrube
-* ...
-
 # Welleneinstieg
 
+Vermutete / getestete Einstiegspunkte
+
+* Adelboden/Albristhorn (?)
+* Dreispitz (?)
+* Melchsee/Frutt
+* Schächental
+* Klausenpass
 * Montafonwelle: Nördlich Schesaplana
 * Inntal: Über Bahnhof Hall/Tirol (CTR-Freigabe nötig!)
 * Pinzgau: Kaprun
 
 
-# Parameter
+# Tabellenparameter
 
 * h: Minimal empfohlene Ankunftshöhe, wo der Hang (normalerweise)
   funktioniert (m MSL)
@@ -35,12 +37,16 @@ im Windfeld!
 
 |Punkt | h | Landefeld(er) | Bemerkungen |
 |---|:---:|---|---|
-| Urmiberg | 1200 | Buochs, Lauerz | |
-| Eggberge | 1000 | Altdorf | | 
+| Gross Lohner | 2600 | Reichenbach, Thun | N Gemmipass; Ostgrat anfliegen; nur bei Ostkomponente getestet |
+| Dreispitz/Latrejespitz/First | 2400 | Reichenbach, Thun | S Thunersee |
+| Wendenstöcke | 2500 | Meiringen, Kägiswil | Grat N Gadmertal; Achtung TMA Meiringen |
+| Urmiberg | 1200 | Buochs, Lauerz | Wind am Urner See beachten |
+| Eggberge | 1000 | Altdorf | Wind am Urner See beachten | 
 | Wiggis/Rautispitz | 1800 | Mollis, Schänis | |
+| Gufelstock | 2000 | Mollis, Schänis | |
 | Chäserrugg | 2000 | Schänis, Bad Ragaz | |
 | Gonzen | 1000 | Sargans, Bad Ragaz | Nach Ragaz: Gegenwind, starkes Sinken! |
-| Falknis | 2300 | Bad Ragaz | |
+| Mazorakopf/Falknis | 2300 | Bad Ragaz | Vorsicht/höher anfliegen bei Ostkomponente! |
 
 
 # Hangflug Österreich
