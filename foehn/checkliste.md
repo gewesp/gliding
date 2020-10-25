@@ -77,8 +77,8 @@ Siehe Vorhersagequellen im Handbuch (Meteoblue, Skysight, Toptask, ...)
 
 |Wenn <img width=300>|Dann <img width=300>|
 |---|---|
-| | |
-| | |
-| | |
-| | |
-| | |
+|&nbsp; | |
+|&nbsp; | |
+|&nbsp; | |
+|&nbsp; | |
+|&nbsp; | |
