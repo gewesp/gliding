@@ -77,7 +77,32 @@ Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
 |Dachstein| | Niederöblarn |  |
 
 
+# Spezielle Föhnlagen
+
+## Seichter Föhn
+
+Seichter Föhn kann die hohen Berge nicht überströmen.  Charakteristisch
+ist, dass der Wind in den einzelnen Föhntälern (Rheintal, Reusstal)
+zwar sehr stark ist, nach oben hin jedoch abnimmt und zwischen 2000m
+und 2500m fast zum Erliegen kommt.  Dies kann durchaus auch
+bei hoher Druckdifferenz vorkommen, wie zum Beispiel am
+21. Oktober 2020 mit 12hPa Lugano-Zürich.  MeteoSchweiz hat einen
+[interessanten Artikel](https://www.meteoschweiz.admin.ch/home/aktuell/meteoschweiz-blog.subpage.html/de/data/blogs/2020/10/foehntag.html) zu diesem
+Thema veröffentlicht.
+
+Lange Streckenflüge in seichtem Föhn sind schwierig, da der Föhn für die
+Hauptflugrouten zu niedrig ist.
+
+Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
+(zB MeteoBlue-Meteogramme).
+
 # Flüge
 
 * Bernhard Leitner, Innsbruck, 5.10.2020: 
   [OLC](https://www.onlinecontest.org/olc-3.0/gliding/flightinfo.html?dsId=8203468)
+
+
+# Vorhersagetools
+
+* [Meteogramme von MeteoBlue](https://www.meteoblue.com/en/weather/aviation/air/)
+* [Meteoseite des Flugplatzes Schänis](https://flugplatz-schaenis.ch/meteo/)
