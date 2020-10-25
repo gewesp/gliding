@@ -36,32 +36,30 @@ Verwendung:
 |DABS|<https://www.skybriefing.com/dabs>||
 |Tuepl Hochfilzen|[Google: Tuepl Hochfilzen Schiessen](https://www.google.com/search?q=tuepl+hochfilzen+schiessen)||
 
-# Wind
+# Meteo
 
-## Vorhersagen
+Siehe Vorhersagequellen im Handbuch (Meteoblue, Skysight, Toptask, ...)
 
-|Station|Quelle|Werte während des Fluges|
+## Vorhersagen Werte während des geplanten Fluges
+
+|Station|Quelle|Werte|
 |---|---|---|
 |Jungfraujoch|[Meteomedia](http://wetterstationen.meteomedia.de/station=067300&wahl=vorhersage)||
 |Säntis|[Meteomedia](http://wetterstationen.meteomedia.ch/station=066800&wahl=vorhersage)||
 |Patscherkofel|[meteocentrale](http://www.meteocentrale.ch/de/europa/oesterreich/wetter-patscherkofel/details/S111260/)||
 |Dachstein|[meteocentrale](http://www.meteocentrale.ch/de/europa/frankreich/wetter-dachstein/details/N-2041167/)||
 
-# Wetter
+
+## Basisdaten
 
 |Definition|Wert|
 |---|---|
 |ECET (lokal)||
 |Nullgradgrenze||
-|Windrichtung||
-|Windgeschwindigkeit||
-
-# Vorhersagen
-
-## Skysight
-
-## Toptask
-
+|Hauptwindrichtung||
+|Windgeschwindigkeit 2000m||
+|Windgeschwindigkeit 3000m||
+|Windgeschwindigkeit 4000m||
 
 # Plan
 
@@ -76,3 +74,11 @@ Verwendung:
 |Landung|||
 
 # Optionen
+
+|Wenn <img width=200>|Dann <img width=200>|
+|---|---|
+|||
+|||
+|||
+|||
+|||
