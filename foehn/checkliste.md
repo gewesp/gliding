@@ -42,12 +42,12 @@ Siehe Vorhersagequellen im Handbuch (Meteoblue, Skysight, Toptask, ...)
 
 ## Vorhersagen Werte während des geplanten Fluges
 
-|Station|Quelle|Werte|
-|---|---|---|
-|Jungfraujoch|[Meteomedia](http://wetterstationen.meteomedia.de/station=067300&wahl=vorhersage)||
-|Säntis|[Meteomedia](http://wetterstationen.meteomedia.ch/station=066800&wahl=vorhersage)||
-|Patscherkofel|[meteocentrale](http://www.meteocentrale.ch/de/europa/oesterreich/wetter-patscherkofel/details/S111260/)||
-|Dachstein|[meteocentrale](http://www.meteocentrale.ch/de/europa/frankreich/wetter-dachstein/details/N-2041167/)||
+|Station|Quelle|9:00|12:00|15:00|18:00|
+|---|---|---|---|---|---|
+|Jungfraujoch|[Meteomedia](http://wetterstationen.meteomedia.de/station=067300&wahl=vorhersage)|||||
+|Säntis|[Meteomedia](http://wetterstationen.meteomedia.ch/station=066800&wahl=vorhersage)|||||
+|Patscherkofel|[meteocentrale](http://www.meteocentrale.ch/de/europa/oesterreich/wetter-patscherkofel/details/S111260/)|||||
+|Dachstein|[meteocentrale](http://www.meteocentrale.ch/de/europa/frankreich/wetter-dachstein/details/N-2041167/)|||||
 
 
 ## Basisdaten
@@ -75,10 +75,10 @@ Siehe Vorhersagequellen im Handbuch (Meteoblue, Skysight, Toptask, ...)
 
 # Optionen
 
-|Wenn <img width=200>|Dann <img width=200>|
+|Wenn <img width=300>|Dann <img width=300>|
 |---|---|
-|||
-|||
-|||
-|||
-|||
+| | |
+| | |
+| | |
+| | |
+| | |
