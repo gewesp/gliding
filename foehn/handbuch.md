@@ -18,7 +18,9 @@ Vermutete / getestete Einstiegspunkte
 * Klausenpass
 * Montafonwelle: Nördlich Schesaplana
 * Inntal: Über Bahnhof Hall/Tirol (CTR-Freigabe nötig!)
-* Pinzgau: Kaprun
+* Hohe Salve (5km OSO Wörgl)
+* Stripsenjoch (zwischen Wildem und Zahmen Kaiser)
+* Kaprun (Pinzgau)
 
 
 # Auffangpunkte/-linien
