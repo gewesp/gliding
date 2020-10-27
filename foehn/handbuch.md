@@ -18,6 +18,7 @@ Vermutete / getestete Einstiegspunkte
 * Klausenpass
 * Montafonwelle: Nördlich Schesaplana
 * Inntal: Über Bahnhof Hall/Tirol (CTR-Freigabe nötig!)
+* Wildschönau (?) (3km S Wörgl)
 * Hohe Salve (5km OSO Wörgl)
 * Stripsenjoch (zwischen Wildem und Zahmen Kaiser)
 * Kaprun (Pinzgau)
@@ -102,7 +103,8 @@ Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
 
 * Bernhard Leitner, Innsbruck, 5.10.2020: 
   [OLC](https://www.onlinecontest.org/olc-3.0/gliding/flightinfo.html?dsId=8203468)
-
+* Philipp Stahl, Kufstein, 26.10.2020:
+  [OLC](https://www.onlinecontest.org/olc-3.0/gliding/flightinfo.html?dsId=8215817)
 
 # Vorhersagetools
 
