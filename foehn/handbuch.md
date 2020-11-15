@@ -110,3 +110,7 @@ Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
 
 * [Meteogramme von MeteoBlue](https://www.meteoblue.com/en/weather/aviation/air/)
 * [Meteoseite des Flugplatzes Schänis](https://flugplatz-schaenis.ch/meteo/)
+
+# Referenzen
+
+* Lucian Haas, [Der wohltemperierte Föhn](https://lu-glidz.blogspot.com/2018/11/der-wohltemperierte-fohn.html).  Blog, 11/2018
