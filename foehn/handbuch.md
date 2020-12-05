@@ -11,11 +11,12 @@ Quelle: [MeteoSchweiz](https://www.meteoschweiz.admin.ch/home/klima/klima-der-sc
 
 Vermutete / getestete Einstiegspunkte
 
-* Adelboden/Albristhorn (?)
+* N Adelboden (4.12.2020/yg/3200m)/Albristhorn (?)
 * Dreispitz (?)
 * Melchsee/Frutt
 * Schächental
 * Klausenpass
+* Linthal (4.12.2020/yg/3000m)
 * Montafonwelle: Nördlich Schesaplana
 * Inntal: Über Bahnhof Hall/Tirol (CTR-Freigabe nötig!)
 * Wildschönau (?) (3km S Wörgl)
@@ -51,12 +52,15 @@ im Windfeld!
 |---|:---:|---|---|
 | Gross Lohner | 2600 | Reichenbach, Thun | N Gemmipass; Ostgrat anfliegen; nur bei Ostkomponente getestet |
 | Dreispitz/Latrejespitz/First | 2400 | Reichenbach, Thun | S Thunersee |
+| Jänzi | 1600 | Kägiswil | W Sarnen |
+| Sädel-Hoch Gumme | 1600 | Kägiswil | W Lungerersee |
 | Wendenstöcke | 2500 | Meiringen, Kägiswil | Grat N Gadmertal; Achtung TMA Meiringen |
 | Urmiberg | 1200 | Buochs, Lauerz | Wind am Urner See beachten |
 | Eggberge | 1000 | Altdorf | Wind am Urner See beachten | 
 | Wiggis/Rautispitz | 1800 | Mollis, Schänis | |
 | Gufelstock | 2000 | Mollis, Schänis | |
 | Chäserrugg | 2000 | Schänis, Bad Ragaz | |
+| Hüser (Säntis-Hoher Kasten) | 1500 | Hohenems | |
 | Gonzen | 1000 | Sargans, Bad Ragaz | Nach Ragaz: Gegenwind, starkes Sinken! |
 | Mazorakopf/Falknis | 2300 | Bad Ragaz | Vorsicht/höher anfliegen bei Ostkomponente! |
 
@@ -73,7 +77,8 @@ Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
 |Seegrube  | 1200 | Innsbruck |  |
 |Ochsenkopf  | | Innsbruck, Kufstein |  |
 |Wilder Kaiser | 1700 | Kufstein, St. Johann |  |
-|Leoganger Steinberge | | St. Johann, Saalfelden |  |
+|Mitterhorn/Grosses Ochsenhorn | 2000 | St. Johann | Achtung: Tüpl Hochfilzen |
+|Leoganger Steinberge/Birnhorn | | St. Johann, Saalfelden |  |
 |Steinernes Meer | | Saalfelden, Zell am See | Nach Zell am See: Gegenwind! |
 |Hochkönig | | St. Johann, Saalfelden |  |
 |(Tennengebirge)| |  | Pfarrwerfen? |  |
