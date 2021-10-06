@@ -17,7 +17,8 @@ Vermutete / getestete Einstiegspunkte
 * Schächental
 * Klausenpass
 * Linthal (4.12.2020/yg/3000m)
-* Montafonwelle: Nördlich Schesaplana
+* Sernftal, Elm-Foostock
+* Montafonwelle: Zimba-Schruns (2200m ?)
 * Inntal: Über Bahnhof Hall/Tirol (CTR-Freigabe nötig!)
 * Wildschönau (?) (3km S Wörgl)
 * Hohe Salve (5km OSO Wörgl)
@@ -63,6 +64,8 @@ im Windfeld!
 | Hüser (Säntis-Hoher Kasten) | 1500 | Hohenems | |
 | Gonzen | 1000 | Sargans, Bad Ragaz | Nach Ragaz: Gegenwind, starkes Sinken! |
 | Mazorakopf/Falknis | 2300 | Bad Ragaz | Vorsicht/höher anfliegen bei Ostkomponente! |
+| Schesaplana-Drusenfluh-Sulzfluh | 2400 | Bad Ragaz | Sehr zuverlässig |
+| Zimba | 2300 | Hohenems | Nach Süden östlich Lünersee fliegen |
 
 
 ## Hangflug Österreich
@@ -73,9 +76,12 @@ Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
 |---|:---:|---|---|
 |Valluga   | 2700 | Bludenz, Imst |  |
 |Parseier  | 2500 | Imst | Richtung Mieminger: Achtung TMA Innsbruck Hahntenjoch |
-|Mieminger | 2000 | Imst, Innsbruck |  |
+|Heiterwand| 2500 | Imst, Innsbruck | |
+|Rauchberg | 2300 | Imst, Innsbruck | Achtung: TMA Innsbruck Hahntenjoch |
+|Mieminger | 2000 | Imst, Innsbruck | Bei Flaute evtl. an Hochwanner zurückfallen lassen | 
 |Seegrube  | 1200 | Innsbruck |  |
 |Ochsenkopf  | | Innsbruck, Kufstein |  |
+|Pendling | 1000 | Kufstein | Nur wenn Wind ins Tal durchkommt; Kufstein nach Wind fragen |
 |Wilder Kaiser | 1700 | Kufstein, St. Johann |  |
 |Mitterhorn/Grosses Ochsenhorn | 2000 | St. Johann | Achtung: Tüpl Hochfilzen |
 |Leoganger Steinberge/Birnhorn | | St. Johann, Saalfelden |  |
@@ -110,6 +116,8 @@ Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
   [OLC](https://www.onlinecontest.org/olc-3.0/gliding/flightinfo.html?dsId=8203468)
 * Philipp Stahl, Kufstein, 26.10.2020:
   [OLC](https://www.onlinecontest.org/olc-3.0/gliding/flightinfo.html?dsId=8215817)
+* Gerhard Wesp, Schänis, 3.10.2021:
+  [WeGlide](https://www.weglide.org/flight/108402)
 
 # Vorhersagetools
 
