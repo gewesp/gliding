@@ -81,7 +81,7 @@ Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
 |Heiterwand| 2500 | Imst, Innsbruck | |
 |Rauchberg | 2300 | Imst, Innsbruck | Achtung: TMA Innsbruck Hahntenjoch |
 |Mieminger | 2000 | Nassereith, Stams, Innsbruck | Oft Flaute?  Evtl. an Hochwanner zurückfallen lassen | 
-|Seegrube  | 1200 | Innsbruck | Freigabe zur Aufwindsuche nötig oder TRA C aktiv  |
+|Nordkette | 1200 | Innsbruck | Freigabe zur Aufwindsuche nötig oder TRA C aktiv  |
 |Ochsenkopf  | | Innsbruck, Kufstein |  |
 |Pendling | 1000 | Kufstein | Nur wenn Wind ins Tal durchkommt; Kufstein nach Wind fragen |
 |Wilder Kaiser | 1700 | Kufstein, St. Johann |  |
