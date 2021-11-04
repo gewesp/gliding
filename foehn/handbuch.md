@@ -76,14 +76,15 @@ Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
 |---|:---:|---|---|
 |Valluga   | 2700 | Bludenz, Imst |  |
 |Parseier  | 2500 | Imst | Richtung Mieminger: Achtung TMA Innsbruck Hahntenjoch |
+|Venetberg| 1800 | Landeck/Zams, Mils | Hilfreich bei Absaufer |
 |Heiterwand| 2500 | Imst, Innsbruck | |
 |Rauchberg | 2300 | Imst, Innsbruck | Achtung: TMA Innsbruck Hahntenjoch |
-|Mieminger | 2000 | Imst, Innsbruck | Bei Flaute evtl. an Hochwanner zurückfallen lassen | 
-|Seegrube  | 1200 | Innsbruck |  |
+|Mieminger | 2000 | Nassereith, Stams, Innsbruck | Oft Flaute?  Evtl. an Hochwanner zurückfallen lassen | 
+|Seegrube  | 1200 | Innsbruck | Freigabe zur Aufwindsuche nötig oder TRA C aktiv  |
 |Ochsenkopf  | | Innsbruck, Kufstein |  |
 |Pendling | 1000 | Kufstein | Nur wenn Wind ins Tal durchkommt; Kufstein nach Wind fragen |
 |Wilder Kaiser | 1700 | Kufstein, St. Johann |  |
-|Mitterhorn/Grosses Ochsenhorn | 2000 | St. Johann | Achtung: Tüpl Hochfilzen |
+|Mitterhorn/Grosses Ochsenhorn | 2000 (?) | St. Johann | Achtung: Tüpl Hochfilzen |
 |Leoganger Steinberge/Birnhorn | | St. Johann, Saalfelden |  |
 |Steinernes Meer | | Saalfelden, Zell am See | Nach Zell am See: Gegenwind! |
 |Hochkönig | | St. Johann, Saalfelden |  |
@@ -97,15 +98,16 @@ Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
 
 Seichter Föhn kann die hohen Berge nicht überströmen.  Charakteristisch
 ist, dass der Wind in den einzelnen Föhntälern (Rheintal, Reusstal)
-zwar sehr stark ist, nach oben hin jedoch abnimmt und zwischen 2000m
-und 2500m fast zum Erliegen kommt.  Dies kann durchaus auch
-bei hoher Druckdifferenz vorkommen, wie zum Beispiel am
-21. Oktober 2020 mit 12hPa Lugano-Zürich.  MeteoSchweiz hat einen
+zwar stark bläst, nach oben hin jedoch wieder abnimmt. Dies oft auf unter
+20km/h zwischen 2500m und 3500m.
+
+Seichter Föhn scheint durchaus auch bei hoher Druckdifferenz vorkommen, 
+wie zum Beispiel am 21. Oktober 2020 mit 12hPa Lugano-Zürich.  MeteoSchweiz hat einen
 [interessanten Artikel](https://www.meteoschweiz.admin.ch/home/aktuell/meteoschweiz-blog.subpage.html/de/data/blogs/2020/10/foehntag.html) zu diesem
 Thema veröffentlicht.
 
-Lange Streckenflüge in seichtem Föhn sind schwierig, da der Föhn für die
-Hauptflugrouten zu niedrig ist.
+Lange Streckenflüge in seichtem Föhn sind schwierig, da Hänge oft nicht
+tragen und Wellen nicht gut entwickelt sind.
 
 Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
 (zB MeteoBlue-Meteogramme).
@@ -118,6 +120,8 @@ Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
   [OLC](https://www.onlinecontest.org/olc-3.0/gliding/flightinfo.html?dsId=8215817)
 * Gerhard Wesp, Schänis, 3.10.2021:
   [WeGlide](https://www.weglide.org/flight/108402)
+* Sigi Föhn, Schänis, 30.10.2021, Hangwind am Venetberg:
+  [WeGlide](https://www.weglide.org/flight/111195)
 
 # Vorhersagetools
 
