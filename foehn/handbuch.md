@@ -13,6 +13,7 @@ Vermutete / getestete Einstiegspunkte
 
 * N Adelboden (4.12.2020/yg/3200m)/Albristhorn (?)
 * Dreispitz (?)
+* W Schreckhorn (31.10.2020/ms/4000m)
 * Melchsee/Frutt
 * Schächental
 * Klausenpass
@@ -122,6 +123,9 @@ Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
   [WeGlide](https://www.weglide.org/flight/108402)
 * Sigi Föhn, Schänis, 30.10.2021, Hangwind am Venetberg:
   [WeGlide](https://www.weglide.org/flight/111195)
+* Mario und Beat Straub, Schänis, 31.10.2021:
+  [WeGlide](https://www.weglide.org/flight/111308)
+
 
 # Vorhersagetools
 
