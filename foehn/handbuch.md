@@ -19,11 +19,16 @@ Vermutete / getestete Einstiegspunkte
 * Klausenpass
 * Linthal (4.12.2020/yg/3000m)
 * Sernftal, Elm-Foostock
-* Montafonwelle: Zimba-Schruns (2200m ?)
+* Montafonwelle: Zimba-2km W Schruns (Stauseen; 2200m)
+* Innerbraz (?)
+* Flexenpass (?)
 * Inntal: Über Bahnhof Hall/Tirol (CTR-Freigabe nötig!)
+* Nördliche Karwendelwelle ('Bachmaier-Welle'): ca. 10km W Rofan (2700m?). 
+  Alternative zur Nordkette.
+* Wettersteinwelle: 5km OSO Garmisch (2300m)  
 * Wildschönau (?) (3km S Wörgl)
 * Hohe Salve (5km OSO Wörgl)
-* Stripsenjoch (zwischen Wildem und Zahmen Kaiser)
+* Stripsenjoch (O zwischen Wildem und Zahmen Kaiser) (2200m)
 * Kaprun (Pinzgau)
 
 
@@ -82,6 +87,8 @@ Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
 |Rauchberg | 2300 | Imst, Innsbruck | Achtung: TMA Innsbruck Hahntenjoch |
 |Mieminger | 2000 | Nassereith, Stams, Innsbruck | Oft Flaute?  Evtl. an Hochwanner zurückfallen lassen | 
 |Nordkette | 1200 | Innsbruck | Freigabe zur Aufwindsuche nötig oder TRA C aktiv  |
+|Stanser Joch| 1500 | Kufstein | |
+|Rofan | 1500 | Kufstein | Wind vom Zillertal oder W aus Inntal |
 |Ochsenkopf  | | Innsbruck, Kufstein |  |
 |Pendling | 1000 | Kufstein | Nur wenn Wind ins Tal durchkommt; Kufstein nach Wind fragen |
 |Wilder Kaiser | 1700 | Kufstein, St. Johann |  |
@@ -135,3 +142,4 @@ Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
 # Referenzen
 
 * Lucian Haas, [Der wohltemperierte Föhn](https://lu-glidz.blogspot.com/2018/11/der-wohltemperierte-fohn.html).  Blog, 11/2018
+* Benjamin Bachmaier, Matthias Schunk et al. [Late Night Soaring: Zwischen Zillertal und Montafon](https://www.youtube.com/watch?v=WHzOwZpW_l4)
