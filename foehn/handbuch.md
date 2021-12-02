@@ -11,14 +11,18 @@ Quelle: [MeteoSchweiz](https://www.meteoschweiz.admin.ch/home/klima/klima-der-sc
 
 Vermutete / getestete Einstiegspunkte
 
+* Col du Pillon - Adelboden
 * N Adelboden (4.12.2020/yg/3200m)/Albristhorn (?)
 * Dreispitz (?)
 * W Schreckhorn (31.10.2020/ms/4000m)
+* SW Flugplatz Meiringen (bs/3000m)
 * Melchsee/Frutt
+* Altdorf über blauer Halle (bs/800m)
 * Schächental
 * Klausenpass
 * Linthal (4.12.2020/yg/3000m)
 * Sernftal, Elm-Foostock
+* Calfeisental: Sehr zuverlässiger Einstieg 500m N Staumauer
 * Montafonwelle: Zimba-2km W Schruns (Stauseen; 2200m)
 * Innerbraz (?)
 * Flexenpass (?)
@@ -57,6 +61,8 @@ im Windfeld!
 
 |Punkt | h | Landefeld(er) | Bemerkungen |
 |---|:---:|---|---|
+| Leysin | 1800? | Bex | |
+| N Col du Pillon | 2000? | Bex | |
 | Gross Lohner | 2600 | Reichenbach, Thun | N Gemmipass; Ostgrat anfliegen; nur bei Ostkomponente getestet |
 | Dreispitz/Latrejespitz/First | 2400 | Reichenbach, Thun | S Thunersee |
 | Jänzi | 1600 | Kägiswil | W Sarnen |
@@ -66,9 +72,10 @@ im Windfeld!
 | Eggberge | 1000 | Altdorf | Wind am Urner See beachten | 
 | Wiggis/Rautispitz | 1800 | Mollis, Schänis | |
 | Gufelstock | 2000 | Mollis, Schänis | |
-| Chäserrugg | 2000 | Schänis, Bad Ragaz | |
+| Churfirsten/Chäserrugg | 2000 | Schänis, Bad Ragaz | |
 | Hüser (Säntis-Hoher Kasten) | 1500 | Hohenems | |
 | Gonzen | 1000 | Sargans, Bad Ragaz | Nach Ragaz: Gegenwind, starkes Sinken! |
+| Calanda/Tamins | 1300 | Domat/Ems, Bad Ragaz | |
 | Mazorakopf/Falknis | 2300 | Bad Ragaz | Vorsicht/höher anfliegen bei Ostkomponente! |
 | Schesaplana-Drusenfluh-Sulzfluh | 2400 | Bad Ragaz | Sehr zuverlässig |
 | Zimba | 2300 | Hohenems | Nach Süden östlich Lünersee fliegen |
@@ -143,3 +150,4 @@ Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
 
 * Lucian Haas, [Der wohltemperierte Föhn](https://lu-glidz.blogspot.com/2018/11/der-wohltemperierte-fohn.html).  Blog, 11/2018
 * Benjamin Bachmaier, Matthias Schunk et al. [Late Night Soaring: Zwischen Zillertal und Montafon](https://www.youtube.com/watch?v=WHzOwZpW_l4)
+* Benjamin Bachmaier, Matthias Schunk et al. [Late Night Soaring: Zwischen Montafon und Genfersee](https://www.youtube.com/watch?v=Dh8AizpBBEg)
