@@ -7,9 +7,9 @@
 Quelle: [MeteoSchweiz](https://www.meteoschweiz.admin.ch/home/klima/klima-der-schweiz/altweibersommer-eisheilige-und-andere-spezialitaeten/foehn.html)
 
 
-# Welleneinstieg
+# Vermutete/getestete Welleneinstiegspunkte
 
-Vermutete / getestete Einstiegspunkte
+## Schweiz
 
 * Col du Pillon - Adelboden
 * N Adelboden (4.12.2020/yg/3200m)/Albristhorn (?)
@@ -23,6 +23,9 @@ Vermutete / getestete Einstiegspunkte
 * Linthal (4.12.2020/yg/3000m)
 * Sernftal, Elm-Foostock
 * Calfeisental: Sehr zuverlässiger Einstieg 500m N Staumauer
+
+## Vorarlberg bis Salzachtal
+
 * Montafonwelle: Zimba-2km W Schruns (Stauseen; 2200m)
 * Innerbraz (?)
 * Flexenpass (?)
@@ -34,6 +37,26 @@ Vermutete / getestete Einstiegspunkte
 * Hohe Salve (5km OSO Wörgl)
 * Stripsenjoch (O zwischen Wildem und Zahmen Kaiser) (2200m)
 * Kaprun (Pinzgau)
+* Südliches Ende Königsee; evtl. sehr starkes Steigen
+* Westkante Hochkönig
+
+## Östlich des Salzachtals
+
+* N Tennengebirge/Lammertal
+* Hallstätter See
+* Almsee
+* N Warscheneck
+* Triebental (5km S Trieben)
+* Gaishorner See 
+* Gleinkersee
+* N Haller Mauern (starkes Steigen)
+* S Hochwildstelle/Haus im Ennstal
+* Gesäuseeingang (W)
+* SW Eisenerz
+* Eisenerz: Anfang Präbichlstrasse
+* Riegerin
+* N Veitsch
+* N Schneeberg
 
 
 # Auffangpunkte/-linien
@@ -83,7 +106,7 @@ im Windfeld!
 
 ## Hangflug Österreich
 
-Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
+### Route Inntal-Saalfelden-Ennstal
 
 |Punkt | h | Landefeld(er) | Bemerkungen |
 |---|:---:|---|---|
@@ -101,10 +124,42 @@ Inntal-Saalfelden-Ennstal-Mur/Mürz-Furche
 |Wilder Kaiser | 1700 | Kufstein, St. Johann |  |
 |Mitterhorn/Grosses Ochsenhorn | 2000 (?) | St. Johann | Achtung: Tüpl Hochfilzen |
 |Leoganger Steinberge/Birnhorn | | St. Johann, Saalfelden |  |
-|Steinernes Meer | | Saalfelden, Zell am See | Nach Zell am See: Gegenwind! |
-|Hochkönig | | St. Johann, Saalfelden |  |
-|(Tennengebirge)| |  | Pfarrwerfen? |  |
-|Dachstein| | Niederöblarn |  |
+|Steinernes Meer | ? | Saalfelden, Zell am See | Relativ zuverlässig |
+|Hochkönig | ? | St. Johann, Saalfelden | Achtung, wird umströmt! Nach W über Dientner Sattel fliegen, danach Prallhang |
+|Tennengebirge| ? |  Pfarrwerfen? | Richtung W (Hochkönig) *unbedingt* hoch steigen! |
+|Bischofsmütze Südostseite | 1800 | ? | Auf 2800m steigen! Wind umströmt Dachstein |
+|Dachstein Südwand | 2500 | Radstadt?, Niederöblarn | Nicht zu tief einfliegen!  Achtung Seil! |
+|Grimming Westseite | ? | Niederöblarn | Freistehend, daher etwas schwierig. Richtung W unbedingt hoch steigen |
+|Weissenbacher Wände | ? | Aigen | Zweistufig; Südlichen Grat fliegen |
+
+### Route Liesing-Paltental (Liste unvollständig)
+
+* Achtung: In tiefen Lagen kanalisiert der Wind über den Schoberpass aus SO!
+* Daher: Speziell von West nach Ost schwieriger als die Route über Gesäuse.
+* Das Gösseck ist nur bei Nordwestwind brauchbar (?)
+
+
+|Punkt | h | Landefeld(er) | Bemerkungen |
+|---|:---:|---|---|
+|Kalbling/Admonter Reichenstein| | | |
+|Zeiritskampel | | | |
+|Eisenerzer Reichenstein | | | |
+
+### Route Gesäuse
+
+|Punkt | h | Landefeld(er) | Bemerkungen |
+|---|:---:|---|---|
+|Sengsengebirge| 1500? | Micheldorf | |
+|Haller Mauern| ? | Admondt | Zuverlässig, geht in der Mitte am besten |
+|Buchstein | ? | Admondt | |
+|Tamischbachturm | ? | Mooslandl, Admondt | |
+|Kalte Mauer | ? | Mooslandl | Eher zuverlässig; Maximale Höhe machen! |
+|Hochschwab | ? | Turnau | Achtung: Trawiessattel! |
+|*Veitschalpe* | 1600? | Turnau | Sehr zuverlässig |
+|Schneealpe | ? | Wr Neustadt | Bei Sender  |
+|Rax/Heukuppe | 1200? | Wr Neustadt | Achtung bei Westkomponente! |
+|Schneeberg | ? | Niederöblarn |  |
+|Hohe Wand | 1000? | Wr Neustadt | Schwierig Richtung Westen! |
 
 
 # Spezielle Föhnlagen
@@ -151,3 +206,4 @@ Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
 * Lucian Haas, [Der wohltemperierte Föhn](https://lu-glidz.blogspot.com/2018/11/der-wohltemperierte-fohn.html).  Blog, 11/2018
 * Benjamin Bachmaier, Matthias Schunk et al. [Late Night Soaring: Zwischen Zillertal und Montafon](https://www.youtube.com/watch?v=WHzOwZpW_l4)
 * Benjamin Bachmaier, Matthias Schunk et al. [Late Night Soaring: Zwischen Montafon und Genfersee](https://www.youtube.com/watch?v=Dh8AizpBBEg)
+* Benjamin Bachmaier, Matthias Schunk et al. [Late Night Soaring: Zwischen Zillertal und Wien](https://www.youtube.com/watch?v=DyfcsMSi2tU)
