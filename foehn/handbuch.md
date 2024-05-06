@@ -150,7 +150,7 @@ ist von den hohen Bergen des Berner Oberlandes beeinflusst.
 |Zeiritskampel | | | |
 |Eisenerzer Reichenstein | | | |
 
-### Route Gesäuse
+### Route Gesäuse-Rax
 
 |Punkt | h | Landefeld(er) | Bemerkungen |
 |---|:---:|---|---|
@@ -158,13 +158,17 @@ ist von den hohen Bergen des Berner Oberlandes beeinflusst.
 |Haller Mauern| ? | Admondt | Zuverlässig, geht in der Mitte am besten |
 |Buchstein | ? | Admondt | |
 |Tamischbachturm | ? | Mooslandl, Admondt | |
-|Kalte Mauer | ? | Mooslandl | Eher zuverlässig; Maximale Höhe machen! |
-|Hochschwab | ? | Turnau | Achtung: Trawiessattel! |
-|*Veitschalpe* | 1600? | Turnau | Sehr zuverlässig |
+|Kalte Mauer | ? | Mooslandl (530m) | Eher zuverlässig; Maximale Höhe machen! |
+|Brandstein | 2000? | Mooslandl (530m), Innerzwain (780m) | |
+|Hochschwab | ? | Innerzwain (780m), Turnau (780m) | Achtung: Trawiessattel! |
+|Mieserkogel| 1800? | Turnau (780m) | |
+|Hohe Veitsch | 1600? | Turnau, Neuberg (720m) | Sehr zuverlässig |
 |Schneealpe | ? | Wr Neustadt | Bei Sender  |
-|Rax/Heukuppe | 1200? | Wr Neustadt | Achtung bei Westkomponente! |
-|Schneeberg | ? | ? |  |
+|Rax/Heukuppe | 1200? | Neuberg, Kapellen-Mürz, Wr Neustadt | Achtung bei Westkomponente! |
+|Schneeberg | ? | Puchberg, Wr. Neustadt | Lee von Rax/Heukuppe? |
 |Hohe Wand | 1000? | Wr Neustadt | Schwierig Richtung Westen! |
+
+Wichtige Wiesen: Mooslandl (530m), Innerzwain (780m), Neuberg (720m), Kappellen-Mürz (500m)
 
 
 # Spezielle Föhnlagen
