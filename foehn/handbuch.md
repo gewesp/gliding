@@ -203,6 +203,8 @@ Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
   [WeGlide](https://www.weglide.org/flight/111195)
 * Mario und Beat Straub, Schänis, 31.10.2021:
   [WeGlide](https://www.weglide.org/flight/111308)
+* Thomas Puthod, Grenoble, 30.4.2024:
+  [WeGlide](https://www.weglide.org/flight/384980)
 * Eduard Supersberger und Karl Ortner, 1.5.2024:
   [OLC](https://www.onlinecontest.org/olc-3.0/gliding/flightinfo.html?dsId=9794592)
 
