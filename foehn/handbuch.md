@@ -46,12 +46,12 @@ Quelle: [MeteoSchweiz](https://www.meteoschweiz.admin.ch/home/klima/klima-der-sc
 * Hallstätter See
 * Almsee
 * N Warscheneck
-* Triebental (5km S Trieben)
+* Triebental (5km S Trieben/Lee Grosser Bösenstein)
 * Gaishorner See 
 * Gleinkersee
 * N Haller Mauern (starkes Steigen)
 * S Hochwildstelle/Haus im Ennstal
-* Gesäuseeingang (W)
+* Gesäuseeingang oder Mitte, N Hochtor
 * SW Eisenerz
 * Eisenerz: Anfang Präbichlstrasse
 * Riegerin
@@ -158,7 +158,7 @@ im Windfeld!
 |*Veitschalpe* | 1600? | Turnau | Sehr zuverlässig |
 |Schneealpe | ? | Wr Neustadt | Bei Sender  |
 |Rax/Heukuppe | 1200? | Wr Neustadt | Achtung bei Westkomponente! |
-|Schneeberg | ? | Niederöblarn |  |
+|Schneeberg | ? | ? |  |
 |Hohe Wand | 1000? | Wr Neustadt | Schwierig Richtung Westen! |
 
 
@@ -194,6 +194,8 @@ Eine seichte Föhnlage ist am besten im vertikalen Windprofil zu erkennen
   [WeGlide](https://www.weglide.org/flight/111195)
 * Mario und Beat Straub, Schänis, 31.10.2021:
   [WeGlide](https://www.weglide.org/flight/111308)
+* Eduard Supersberger und Karl Ortner, 1.5.2024:
+  [OLC](https://www.onlinecontest.org/olc-3.0/gliding/flightinfo.html?dsId=9794592)
 
 
 # Vorhersagetools
