@@ -82,10 +82,15 @@ im Windfeld!
 
 ### Nördliche Route 
 
+Eventuell besser: Welleneinstieg bei Adelboden / Albristhorn oder Titlis / Gadmental.  Route
+ist von den hohen Bergen des Berner Oberlandes beeinflusst.
+
 |Punkt | h | Landefeld(er) | Bemerkungen |
 |---|:---:|---|---|
 | Leysin | 1800? | Bex | |
 | N Col du Pillon | 2000? | Bex | |
+| Albristhorn | 2600 | Reichenbach, Zweisimmen | Welleneinstieg südlich davon |
+| Niesen | 2300/evtl. 2000| Reichenbach, Thun | Schleppziel Thun |
 | Gross Lohner | 2600 | Reichenbach, Thun | N Gemmipass; Ostgrat anfliegen; nur bei Ostkomponente getestet |
 | Dreispitz/Latrejespitz/First | 2400 | Reichenbach, Thun | S Thunersee |
 | Jänzi | 1600 | Kägiswil | W Sarnen |
