@@ -21,12 +21,15 @@ Verwendung:
 
 |Rufzeichen|Frequenz|Bemerkungen|
 |---|---|---|
-|Innsbruck Radar|119.275|Arlberg bis Salzburg|
-|Meiringen|130.150|TMA crossing Titlis-Grosse Scheidegg; Funkkontakt nur im Gadmertal; am Wochende meist inaktiv (Zürich Info fragen)|
-|Zürich Delta|119.225|Höhenfreigaben Gemmi bis Arlberg|
-|Geneva Delta|119.175|Höhenfreigaben westlich Gemmi|
-|Zürich Info|124.700|Info über Aktivität, evtl. Koordination von Freigaben|
-|Wien Info|124.400|Info über Aktivität, evtl. Koordination von Freigaben|
+|Geneva Info|126.35|Bex bis Meiringen|
+|Zürich Info|124.7|Meiringen bis Arlberg|
+|Wien Info|124.4|Arlberg bis Wien|
+| | | |
+|Geneva Delta|119.175|Höhenfreigaben westlich Gemmi (not updated 2024)|
+|Alps Radar|119.225|Höhenfreigaben Gemmi bis Arlberg|
+|Meiringen Tower|130.15|TMA crossing Titlis-Grosse Scheidegg; Funkkontakt nur im Gadmertal; am Wochende meist inaktiv (Zürich Info fragen)|
+|Innsbruck Radar|128.975|Arlberg bis Wilder Kaiser|
+|Salzburg Radar|123.725|TMA Salzburg Hochkönig--Dachstein|
 
 # Luftraum
 
@@ -34,6 +37,7 @@ Verwendung:
 |---|---|---|
 |Militär Schweiz|VFR Manual: MON-FRI 07:30-12:05 und 13:15-17:05 Lokalzeit + NOTAM||
 |DABS|<https://www.skybriefing.com/dabs>||
+|AAUP|<https://www.homebriefing.com/fwf-acg/public/cms/cmscontent.faces?contentId=429df59c5e56b2ce015ec8c3f50f0397&menuId=429df59c5e56b2ce015ec8c3f50f0397>|
 |Tuepl Hochfilzen|[Google: Tuepl Hochfilzen Schiessen](https://www.google.com/search?q=tuepl+hochfilzen+schiessen)||
 
 # Meteo
