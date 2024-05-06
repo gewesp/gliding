@@ -51,7 +51,7 @@ Quelle: [MeteoSchweiz](https://www.meteoschweiz.admin.ch/home/klima/klima-der-sc
 * Gleinkersee
 * N Haller Mauern (starkes Steigen)
 * S Hochwildstelle/Haus im Ennstal
-* Gesäuseeingang oder Mitte, N Hochtor
+* Gesäuseeingang oder Mitte, N Hochtor, *südliche Talseite!*
 * SW Eisenerz
 * Eisenerz: Anfang Präbichlstrasse
 * Riegerin
